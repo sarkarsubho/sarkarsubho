@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhankar Sarkar</h1>
 <h3 align="center">A passionate fullstack developer from WestbangalIndia</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/93681750?v=4" alt="sarkarsubho" /> </p>
+<p align="center" style=border-redious:50%> <img style="border-redious:50%" src="https://avatars.githubusercontent.com/u/93681750?v=4" alt="sarkarsubho" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkarsubho" alt="sarkarsubho" /></a> </p>
 

@@ -5,7 +5,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently **sleeping 😴 or working on my laptop 👨‍💻**
+- 🔭 I’m currently **sleeping 😴 or working on my desktop 👨‍💻**
 
 - 🌱 I’m currently learning **react and redux**
 
@@ -41,8 +41,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarkarsubho&theme=react-dark)](https://github.com/sarkarsubho/github-readme-activity-graph)
 
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkarsubho&show_icons=true&locale=en&layout=compact" alt="sarkarsubho" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkarsubho&show_icons=true&locale=en" alt="sarkarsubho" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sarkarsubho&show_icons=true&locale=en" alt="sarkarsubho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkarsubho&" alt="sarkarsubho" /></p>

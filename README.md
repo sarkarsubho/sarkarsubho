@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subhankar Sarkar</h1>
+
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p>
-
+<p align="center">
+  🎯 learnung new topics every day 💡 currently in web Development 🌐 improving DataStructure and Algo concepts👨‍💻
 </p>
+
 
 <!-- <p align="left"> <img src="https://avatars.githubusercontent.com/u/93681750?v=4" alt="sarkarsubho" /> </p> -->
 

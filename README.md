@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **sarkarsaby@gmail.com**
 
-- 📄 Know about my experiences at[ https://portfolio-subho.vercel.app/](https://portfolio-subho.vercel.app/)
+- 📄 Know about my experiences at[Portfolio](https://portfolio-subho.vercel.app/)
 
 <h2 align="left">💻  Connect with me:
 

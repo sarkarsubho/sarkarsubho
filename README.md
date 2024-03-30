@@ -53,8 +53,7 @@
   <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Link 4">
 </a>
 
-<h2 align="left"> 👨‍💻 TechStack:</h2>
-## 🌐 Skills
+<h2 align="left"> 👨‍💻 TechStack & Skills:</h2>
 
 <div>
 <code><img width="60" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>

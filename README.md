@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhankar Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Subhankar Sarkar </h1>
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -6,28 +6,33 @@
   🎯 learnung new topics every day 💡 currently in web Development 🌐 improving DataStructure and Algo concepts👨‍💻
 </p>
 
-<!-- <p align="left"> <img src="https://avatars.githubusercontent.com/u/93681750?v=4" alt="sarkarsubho" /> </p> -->
+##  📚  Currently Learning
 
-<!-- <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
+- Socket.io
+- Next.js
+- Docker
 
-<!-- - 🔭 I’m currently **sleeping 😴 or working on my desktop 👨‍💻** -->
-
-- 🌱 I’m currently learning **react and redux**
-
-- 🌐 I’m based in kolkata,WestBangal.
-
+## 👯🤝 info
 <!-- - 👯🤝 I’m looking for help with **fff** -->
 
 <!-- - 👨‍💻 All of my projects are available at [here](https://portfolio-subho.vercel.app/) -->
 
 <!-- - 📝 I regularly write articles on [f](f) -->
 
-- 💬 Ask me about **react and JavaScript**
+- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **sarkarsaby@gmail.com**
+- 📫 Drop a mail on **sarkarsaby@gmail.com** to reach me.
 
 - 📄 Know about my experiences at[Portfolio](https://portfolio-subho.vercel.app/)
 
+###
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=sarkarsubho&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
+
+</div>
+
+###
 <h2 align="left">💻  Connect with me:
 
 </h2>
@@ -38,6 +43,25 @@
 <a href="https://twitter.com/Subhank81308397"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="subho0905" /></a>
 
 </p>
+
+## 📲  Let's Connect
+<span style="font-size:18px;">I love connecting with fellow developers, tech enthusiasts, and industry professionals. If you have any questions, need assistance, or just want to have a friendly chat, feel free to reach out to me. I'm always open to engaging in discussions and new collaborations.</span>
+
+<a href="https://discord.com/users/subhankarsarkar0034">
+  <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Link 1">
+</a>
+
+<a href="https://wa.me/+917031872272">
+  <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Link 2">
+</a>
+
+<a href="https://www.linkedin.com/in/dev-subhankar-sarkar/">
+  <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Link 3">
+</a>
+
+<a href="https://twitter.com/Subhank81308397">
+  <img width="70px" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Link 4">
+</a>
 
 <h2 align="left"> 👨‍💻 TechStack:</h2>
 <p  >

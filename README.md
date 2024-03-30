@@ -23,7 +23,7 @@
 
 - 📫 Drop a mail on **sarkarsaby@gmail.com** to reach me.
 
-- 📄 Know about my experiences at[Portfolio](https://portfolio-subho.vercel.app/)
+- 📄 Know about my experiences on my [Portfolio](https://portfolio-subho.vercel.app/) .
 
 ###
 <div align="center">

@@ -95,14 +95,14 @@
 <!-- git accivment cup -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkarsubho" alt="sarkarsubho" /></a> </p> -->
 
-<!--
-[![subhankars's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarkarsubho&theme=react-dark)](https://github.com/sarkarsubho/github-readme-activity-graph) -->
- <h2>📊 Most Used Language</h2>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkarsubho&show_icons=true&locale=en&layout=compact" alt="sarkarsubho" /></p>
+ <!--<h2>📊 Most Used Language</h2>-->
+<!--<p  align="center" ></p>-->
 
 <h2> 📟 GitHub Stats</h2>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sarkarsubho&show_icons=true&locale=en" alt="sarkarsubho" />
+<p  align="center" justify="center"  >&nbsp;
+	<img  src="https://github-readme-stats.vercel.app/api?username=sarkarsubho&show_icons=true&locale=en" alt="sarkarsubho" />
+	<img height-"100%  src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkarsubho&show_icons=true&locale=en&layout=compact" alt="sarkarsubho" />
 </p>
 
 <h2> ⏱ Streak Stats</h2>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sarkarsubho&" alt="sarkarsubho" /></p>
+<p  align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sarkarsubho&" alt="sarkarsubho" /></p>

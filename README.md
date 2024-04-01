@@ -6,6 +6,13 @@
   🎯 Learning new topics every day 💡 currently in web Development 🌐 improving DataStructure and Algo concepts👨‍💻
 </p>
 
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=sarkarsubho&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
+
+</div>
+
 ##  📚  Currently Learning
 
 - Socket.io
@@ -24,15 +31,6 @@
 - 📫 Drop a mail on **sarkarsaby@gmail.com** to reach me.
 
 - 📄 Know about my experiences on my [Portfolio](https://portfolio-subho.vercel.app/) .
-
-###
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=sarkarsubho&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
-
-</div>
-
-###
 
 ## 📲  Let's Connect
 <span style="font-size:18px;">I love connecting with fellow developers, tech enthusiasts, and industry professionals. If you have any questions, need assistance, or just want to have a friendly chat, feel free to reach out to me. I'm always open to engaging in discussions and new collaborations.</span>

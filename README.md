@@ -18,6 +18,7 @@
 - Socket.io
 - Next.js
 - Docker
+- Scrapping
 
 ## 👯🤝 info
 <!-- - 👯🤝 I’m looking for help with **fff** -->

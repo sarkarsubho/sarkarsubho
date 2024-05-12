@@ -23,7 +23,7 @@
 ## 👯🤝 info
 <!-- - 👯🤝 I’m looking for help with **fff** -->
 
-<!-- - 👨‍💻 All of my projects are available at [here](https://portfolio-subho.vercel.app/) -->
+<!-- - 👨‍💻 All of my projects are available at [here]([https://portfolio-subho.vercel.app](https://portfolio-subhankar-sarkar.vercel.app/)/) -->
 
 <!-- - 📝 I regularly write articles on [f](f) -->
 
@@ -31,7 +31,7 @@
 
 - 📫 Drop a mail on **sarkarsaby@gmail.com** to reach me.
 
-- 📄 Know about my experiences on my [Portfolio](https://portfolio-subho.vercel.app/) .
+- 📄 Know about my experiences on my [Portfolio]([https://portfolio-subho.vercel.app/](https://portfolio-subhankar-sarkar.vercel.app/)) .
 
 ## 📲  Let's Connect
 <span style="font-size:18px;">I love connecting with fellow developers, tech enthusiasts, and industry professionals. If you have any questions, need assistance, or just want to have a friendly chat, feel free to reach out to me. I'm always open to engaging in discussions and new collaborations.</span>

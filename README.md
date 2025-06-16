@@ -3,7 +3,11 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="center">
-  🎯 Learning new topics every day 💡 currently in web Development 🌐 improving DataStructure and Algo concepts👨‍💻
+ <!--  🎯 Learning new topics every day 💡 currently in web Development 🌐 improving DataStructure and Algo concepts👨‍💻 -->
+	🎯 On a mission to grow every day.
+	💡 Exploring new technologies, building impactful web apps,
+	🌍 Diving deep into Web Development & Analytics, with a curious mind and a builder’s spirit.
+	📚 Because every line of code is a step toward mastery.
 </p>
 
 

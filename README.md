@@ -15,10 +15,13 @@
 
 ##  📚  Currently Learning
 
-- Socket.io
-- Next.js
-- Docker
+<!--
+- Socket.io 
+- Next.js 
 - Scrapping
+-->
+- Docker
+- Web analytics
 
 ## 👯🤝 info
 <!-- - 👯🤝 I’m looking for help with **fff** -->
